@@ -20,10 +20,10 @@ login: root
 
 Pw: installer 
 
-continue with default> 
-ufs> 
-harddisk>
-yes> 
+continue with default
+ufs
+harddisk
+yes
 set pw> 
 reboot> 
 devices and remove optical disk>
