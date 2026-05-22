@@ -112,7 +112,7 @@ The rules for ports left out some details this is rule 5 looks:
 
 ![image alt](https://github.com/Rgonzales92/OPNSenseVlan-DHCP/blob/9fa1edb991d205b98f8711174d85a5d6443e7741/FirewallEx.png)
 
-![image alt](attachment:d0372d3c-8446-4515-ac94-7386abe40a71:image.png)
+![image alt](https://github.com/Rgonzales92/OPNSenseVlan-DHCP/blob/e5012cdfdb7598dd8a839eb3c86f32573cf2c614/Port.png)
 
 Rule 6
 
