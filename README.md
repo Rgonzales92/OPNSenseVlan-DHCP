@@ -2,15 +2,17 @@
 
 # This is more of an advanced lab I have been working on. I have failed a few time but am putting it here for when I am successful.
 
-# Setup:
 
-| WARNING FOR WHEN YOU GET TO THIS POINT                                 “If another virtual machine available type in default gateway into browser to finish opnsense config.”
+
+| WARNING FOR WHEN YOU GET TO THIS POINT |
+
+“If another virtual machine available type in default gateway into browser to finish opnsense config.”
+# Setup:
 I created a windows server machine with static ips of:
 IP:192.168.1.10
-Mask:autofills
+Mask:/24
 GW:192.168.1.1
-DNS: loop back address |
-| --- |
+DNS: loop back address
 
 Install opnsense
 
@@ -18,9 +20,15 @@ login: root
 
 Pw: installer 
 
-continue with default> ufs> harddisk> yes> set pw> reboot> devices and remove optical disk>
+continue with default> 
+ufs> 
+harddisk>
+yes> 
+set pw> 
+reboot> 
+devices and remove optical disk>
 pw: Password1
-
+ ||
 login:root
 Password1
 
