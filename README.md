@@ -61,9 +61,9 @@ Keep going then reset password for GUI> Password1
 
 1. Assignment of VLANS:
 
-Assignments under + assign make sure parent is correct and name like this for correct vlan: 
+In assignments under '+' sign make sure parent is correct and name like this for correct vlan: 
 
-![image alt](attachment:df7ddf42-5435-42c0-958a-6f4c422922b7:image.png)
+![image alt](https://github.com/Rgonzales92/OPNSenseVlan-DHCP/blob/1bc52c02538ba01afb8a23fc44d7704c0f22eaa4/VLANassignment2.png)
 
 1. Enable the VLANS: 
 
