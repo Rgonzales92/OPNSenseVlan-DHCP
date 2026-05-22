@@ -49,22 +49,22 @@ Password1
 
 In GUI welcome> next > dns 1.1.1.1> enable DNSSEC > next > 
 
-![image.png](attachment:5debfb00-a06b-4adb-a97e-755276def396:image.png)
+![image alt](attachment:5debfb00-a06b-4adb-a97e-755276def396:image.png)
 
-![image.png](attachment:67b3b407-6fc4-40f2-9de1-4d20e7cb6d10:image.png)
+![image alt](attachment:67b3b407-6fc4-40f2-9de1-4d20e7cb6d10:image.png)
 
 Keep going then reset password for GUI> Password1
 
 1. System > Firmware > Updates check if any > Plugins check for virtualbox one
 2. For VLAN: Interfaces, Devices, VLAN, LAN will be the parent and tag is the subnet save and apply. Assignment:
 
-![image.png](attachment:70913b3c-0c83-4c64-9fff-8ec3e18efab3:image.png)
+![image alt](attachment:70913b3c-0c83-4c64-9fff-8ec3e18efab3:image.png)
 
 1. Assignment of VLANS:
 
 Assignments under + assign make sure parent is correct and name like this for correct vlan: 
 
-![image.png](attachment:df7ddf42-5435-42c0-958a-6f4c422922b7:image.png)
+![image alt](attachment:df7ddf42-5435-42c0-958a-6f4c422922b7:image.png)
 
 1. Enable the VLANS: 
 
@@ -111,9 +111,9 @@ The rules for ports left out some details this is rule 5 looks:
 - **Destination Port:** 53 (DNS)
 - **Description:** Allow DNS from Servers
 
-![image.png](attachment:d0e8d4be-b0b2-44dc-85d9-6fa08f61aefa:image.png)
+![image alt](attachment:d0e8d4be-b0b2-44dc-85d9-6fa08f61aefa:image.png)
 
-![image.png](attachment:d0372d3c-8446-4515-ac94-7386abe40a71:image.png)
+![image alt](attachment:d0372d3c-8446-4515-ac94-7386abe40a71:image.png)
 
 Rule 6
 
