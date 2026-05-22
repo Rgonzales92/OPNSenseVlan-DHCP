@@ -46,6 +46,7 @@ Password1
 1> no> no> wan em0> lan em1 set ips 2> lan 192.168.1.1 /24 gw blank dhcp no for now> access web gui via 192.168.1.1 our assignment: 
 
 ![image alt](https://github.com/Rgonzales92/OPNSenseVlan-DHCP/blob/59c858455f739c0ced9afc013349179c460df73b/OPNsetuppng)
+
 In GUI welcome> next > dns 1.1.1.1> enable DNSSEC > next > 
 
 ![image alt](attachment:5debfb00-a06b-4adb-a97e-755276def396:image.png)
