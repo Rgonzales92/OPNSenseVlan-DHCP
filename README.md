@@ -31,9 +31,9 @@ Password for installaion: installer
 
 4.Click yes
 
-5.Set your own password> 
+5.Set your own password
 
-6.Reboot> 
+6.Reboot!
 
 devices and remove optical disk
 
@@ -43,7 +43,20 @@ login:root
 
 Password1
 
-1> no> no> wan em0> lan em1 set ips 2> lan 192.168.1.1 /24 gw blank dhcp no for now> access web gui via 192.168.1.1 our assignment: 
+After installation follow this order:
+1
+
+no
+
+no
+
+wan em0
+
+lan em1 set ips 2
+
+lan 192.168.1.1 /24 gw blank dhcp no for now>
+
+access web gui via 192.168.1.1 our assignment: 
 
 ![image alt](https://github.com/Rgonzales92/OPNSenseVlan-DHCP/blob/59c858455f739c0ced9afc013349179c460df73b/OPNsetuppng)
 
