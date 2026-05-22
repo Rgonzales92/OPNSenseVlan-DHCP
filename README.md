@@ -50,7 +50,7 @@ Password1
 In GUI welcome> next > dns 1.1.1.1> enable DNSSEC > next > 
 
 ![image alt](https://github.com/Rgonzales92/OPNSenseVlan-DHCP/blob/e8963e680e432d0ad24524e6ac2cce78f1d433e5/GUIsetup1.png)
-![image alt](attachment:67b3b407-6fc4-40f2-9de1-4d20e7cb6d10:image.png)
+![image alt](https://github.com/Rgonzales92/OPNSenseVlan-DHCP/blob/91b7db3136b107047f659c4f345b3e4e6ceb404b/GUIsetup2.png)
 
 Keep going then reset password for GUI> Password1
 
