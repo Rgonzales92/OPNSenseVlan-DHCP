@@ -9,32 +9,43 @@
 “If another virtual machine available type in default gateway into browser to finish opnsense config.”
 # Setup:
 I created a windows server machine with static ips of:
+
 IP:192.168.1.10
+
 Mask:/24
+
 GW:192.168.1.1
+
 DNS: loop back address
+-------------------------
 
-Install opnsense
+1.Install opnsense
 
-login: root
+Login: root
 
-Pw: installer 
+Password for installaion: installer 
 
-continue with default
-ufs
-harddisk
-yes
-set pw> 
-reboot> 
-devices and remove optical disk>
+2.Continue with default
+
+3.Select UFS then harddisk
+
+4.Click yes
+
+5.Set your own password> 
+
+6.Reboot> 
+
+devices and remove optical disk
+
 pw: Password1
- ||
+
 login:root
+
 Password1
 
-1.1> no> no> wan em0> lan em1 set ips 2> lan 192.168.1.1 /24 gw blank dhcp no for now> access web gui via 192.168.1.1 our assignment: 
+1> no> no> wan em0> lan em1 set ips 2> lan 192.168.1.1 /24 gw blank dhcp no for now> access web gui via 192.168.1.1 our assignment: 
 
-![image.png](attachment:ac471c15-77f5-4919-bc16-2a03c9997493:image.png)
+![image alt](attachment:ac471c15-77f5-4919-bc16-2a03c9997493:image.png)
 
 In GUI welcome> next > dns 1.1.1.1> enable DNSSEC > next > 
 
