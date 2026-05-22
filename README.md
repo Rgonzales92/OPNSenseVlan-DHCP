@@ -57,7 +57,7 @@ Keep going then reset password for GUI> Password1
 1. System > Firmware > Updates check if any > Plugins check for virtualbox one
 2. For VLAN: Interfaces, Devices, VLAN, LAN will be the parent and tag is the subnet save and apply. Assignment:
 
-![image alt](attachment:70913b3c-0c83-4c64-9fff-8ec3e18efab3:image.png)
+![image alt](https://github.com/Rgonzales92/OPNSenseVlan-DHCP/blob/183a508f5e5af50f4b3581a278497ae368ba9002/VLANassignments1.png)
 
 1. Assignment of VLANS:
 
