@@ -110,7 +110,7 @@ The rules for ports left out some details this is rule 5 looks:
 - **Destination Port:** 53 (DNS)
 - **Description:** Allow DNS from Servers
 
-![image alt](attachment:d0e8d4be-b0b2-44dc-85d9-6fa08f61aefa:image.png)
+![image alt](https://github.com/Rgonzales92/OPNSenseVlan-DHCP/blob/9fa1edb991d205b98f8711174d85a5d6443e7741/FirewallEx.png)
 
 ![image alt](attachment:d0372d3c-8446-4515-ac94-7386abe40a71:image.png)
 
